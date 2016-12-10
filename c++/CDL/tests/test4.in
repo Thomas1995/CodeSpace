@@ -1,0 +1,54 @@
+Testam daacaa imbricate
+
+Vreau un patrat in punctul (1,1) de latura 2
+Vreau un patrat in punctul (3,3) de latura 2
+Vreau un patrat in punctul (5,5) de latura 2
+
+Daca figura 0 intersecteaza figura 1
+Daca figura 0 intersecteaza figura 2
+Vreau un poligon cu punctele (0,0), (3,3), (4,4)
+Altfel
+Vreau un poligon cu punctele (1,1), (3,3), (4,4)
+Gata
+Altfel
+Vreau un poligon cu punctele (2,2), (3,3), (4,4)
+Gata boss
+
+Daca figura 0 intersecteaza figura 2
+
+Daca figura 0 intersecteaza figura 2
+Vreau un poligon cu punctele (-1,-1), (3,3), (4,4)
+Altfel
+Vreau un poligon cu punctele (-2,-2), (3,3), (4,4)
+Gata
+
+Daca figura 1 intersecteaza figura 2
+Vreau un poligon cu punctele (-7,-7), (3,3), (4,4)
+Altfel
+Vreau un poligon cu punctele (-8,-8), (3,3), (4,4)
+Gata
+
+Altfel
+
+Daca figura 1 intersecteaza figura 2
+Vreau un poligon cu punctele (-3,-3), (3,3), (4,4)
+
+Daca figura 0 intersecteaza figura 2
+Vreau un poligon cu punctele (-9,-9), (3,3), (4,4)
+Altfel
+Vreau un poligon cu punctele (-10,-10), (3,3), (4,4)
+Gata
+
+Vreau un poligon cu punctele (-3,-3), (3,3), (4,4)
+
+Altfel
+Vreau un poligon cu punctele (-4,-4), (3,3), (4,4)
+Gata
+
+Daca figura 0 intersecteaza figura 2
+Vreau un poligon cu punctele (-5,-5), (3,3), (4,4)
+Altfel
+Vreau un poligon cu punctele (-6,-6), (3,3), (4,4)
+Gata
+
+Gata boss

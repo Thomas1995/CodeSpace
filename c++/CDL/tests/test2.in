@@ -1,0 +1,51 @@
+Testam cazuri particulare de intersectie
+
+Vreau un dreptunghi in punctul (0,0) de laturi (3,2)
+Vreau un dreptunghi in punctul (0,0) de laturi (3,2)
+
+Muta in stanga figura 0 cu 2
+Daca figura 1 intersecteaza figura 0
+Vreau un poligon cu punctele (0,0), (3,3), (4,4)
+Gata boss
+
+Muta in stanga figura 0 cu 1
+Daca figura 1 intersecteaza figura 0
+Vreau un poligon cu punctele (1,1), (3,3), (4,4)
+Gata boss
+
+Muta in stanga figura 0 cu 1
+Daca figura 1 intersecteaza figura 0
+Vreau un poligon cu punctele (2,2), (3,3), (4,4)
+Gata boss
+
+Muta in dreapta figura 0 cu 4
+Muta in sus figura 0 cu 2
+Daca figura 1 intersecteaza figura 0
+Vreau un poligon cu punctele (5,5), (3,3), (4,4)
+Gata boss
+
+Muta in sus figura 0 cu 1
+Daca figura 1 intersecteaza figura 0
+Vreau un poligon cu punctele (6,6), (3,3), (4,4)
+Gata boss
+
+Muta in jos figura 0 cu 1
+Muta in stanga figura 0 cu 3
+Daca figura 1 intersecteaza figura 0
+Vreau un poligon cu punctele (7,7), (3,3), (4,4)
+Gata boss
+
+Muta in jos figura 0 cu 4
+Daca figura 1 intersecteaza figura 0
+Vreau un poligon cu punctele (8,8), (3,3), (4,4)
+Gata boss
+
+Muta in dreapta figura 0 cu 6
+Daca figura 1 intersecteaza figura 0
+Vreau un poligon cu punctele (9,9), (3,3), (4,4)
+Gata boss
+
+Muta in sus figura 0 cu 4
+Daca figura 1 intersecteaza figura 0
+Vreau un poligon cu punctele (-1,-1), (3,3), (4,4)
+Gata boss

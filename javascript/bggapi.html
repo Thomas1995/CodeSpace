@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+  <script>
+  function foo(response) {
+    document.getElementById("output").innerHTML = response.bar;
+    document.write('abc');
+  };
+
+  var tag = document.createElement("script");
+  tag.src = 'http://www.boardgamegeek.com/xmlapi/boardgame/39856/?callback=foo';
+
+  document.getElementsByTagName("head")[0].appendChild(tag);
+
+  /*$.ajax({
+    type: 'GET',
+    url: 'http://www.boardgamegeek.com/xmlapi/boardgame/39856/',
+    contentType: 'text/xml',
+    xhrFields: { withCredentials: true },
+    headers: {
+      'Access-Control-Allow-Origin': *
+    },
+    crossDomain: true,
+    dataType: 'jsonp',
+    success: function() {
+      document.write('abc');
+    },
+    error: function() {
+      document.write('def');
+    }
+  });*/
+  </script>
+</head>
+<body>
+</body>
+</html>

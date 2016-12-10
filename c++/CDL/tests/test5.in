@@ -1,0 +1,41 @@
+Testam intersectia cu drepte
+
+Vreau un poligon cu punctele (1,1), (3,3), (4,4)
+Vreau un poligon cu punctele (0,1), (1,0)
+Vreau un poligon cu punctele (0,3), (3,0)
+Vreau un patrat in (0,2) cu latura 2
+
+Vreau un poligon cu punctele (1,1), (1,4), (1,3), (3,1), (5,1), (5,4), (5,2)
+Vreau un poligon cu punctele (3,3), (2,6), (4,6)
+
+Daca figura 0 intersecteaza figura 1
+Vreau un poligon cu punctele (-1,-1), (3,3), (4,4).
+Gata
+
+Daca figura 0 intersecteaza figura 2
+Vreau un poligon cu punctele (-2,-2), (3,3), (4,4).
+Gata
+
+Daca figura 2 intersecteaza figura 1
+Vreau un poligon cu punctele (-3,-3), (3,3), (4,4).
+Gata
+
+Daca figura 3 intersecteaza figura 0
+Vreau un poligon cu punctele (-4,-4), (3,3), (4,4).
+Gata
+
+Daca figura 3 intersecteaza figura 1
+Vreau un poligon cu punctele (-5,-5), (3,3), (4,4).
+Gata
+
+Daca figura 3 intersecteaza figura 2
+Vreau un poligon cu punctele (-6,-6), (3,3), (4,4).
+Gata
+
+Daca figura 4 intersecteaza figura 5
+Vreau un poligon cu punctele (-7,-7), (3,3), (4,4).
+Gata
+
+Daca figura 5 intersecteaza figura 4
+Vreau un poligon cu punctele (-8,-8), (3,3), (4,4).
+Gata
